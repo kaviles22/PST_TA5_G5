@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ta5</string>
+    <string name="cap">
+        Creador:	Joe Simon, Jack Kirby \n
+Interpretado por:	Matt Salinger (1990), Chris Evans (2011-presente)\n
+Editorial:	Marvel Comics\n
+Nombre original:	Steven Grant Rogers\n
+Alias:	Nómada, El Capitán, Cap, Steve Rogers, Steve\n
+Sexo:	masculino\n
+    </string>
+    <string name="hulk">
+        Creador(es):	Stan Lee y Jack Kirby\n
+Interpretado por:	Bill Bixby (1977), Lou Ferrigno (1982), Eric Bana (2003), Edward Norton (2008), Mark Ruffalo (2012-presente )\n
+Editorial:	Marvel Comics\n
+
+Nombre original:	Robert Bruce Banner1​\n
+Alias:	Incredible Hulk, El Hombre Increíble,
+    </string>
+    <string name="black">
+        Creador(es):	Stan Lee
+,Don Rico
+,Don Heck\n
+Interpretado por:	Scarlett Johansson (2010 - 2020)\n
+Nombre original:	Natalia Alianovna Romanova\n
+
+Sexo:	femenino
+    </string>
+    <string name="thor">
+
+    </string>
+    <string name="ironman">Ta5</string>
+    <string name="capitana">Ta5</string>
+</resources>
+
