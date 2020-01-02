@@ -26,9 +26,45 @@ Nombre original:	Natalia Alianovna Romanova\n
 Sexo:	femenino
     </string>
     <string name="thor">
-
+    Creador(es):	Stan Lee, Larry Lieber y Jack Kirby, basándose en el dios Thor de la mitología nórdica\n
+Interpretado por:	Eric Allan Kramer (1988),
+Chris Hemsworth (2011-presente)\n
+Nombre original:	Thor Odinson\n
+Alias:	Hijo de Odín, Dios del Trueno, Dr. Donald Blake, Sigurd Jarlson, Jake Olsen, Erick K. Masterson\n
+Raza:	Asgardiano\n
+Sexo:	Masculino\n
+Estatura:	1,90 m (6 ft 3 in)\n
     </string>
-    <string name="ironman">Ta5</string>
-    <string name="capitana">Ta5</string>
+    <string name="ironman">
+        Creador(es):	Stan Lee,
+Larry Lieber,
+Don Heck,
+Jack Kirby\n
+Interpretado por:	Robert Downey, Jr. (2008-2019)\n
+Editorial:	Marvel Comics\n
+Nombre original:	Anthony Edward Stark\n
+Alias:	Tony Stark / Iron Man (El Hombre de Hierro)\n
+Raza:	Humano\n
+Sexo:	masculino\n
+Estatura:
+1,74 m (5 ft 9 in)\n
+    </string>
+    <string name="capitana">
+        Creador(es):	Roy Thomas y Gene Colan\n
+Interpretado por:	Brie Larson (2019)\n
+Nombre original:	Carol Susan Jane Danvers\n
+Alias:	Ms. Marvel,
+Warbird,
+Binary,
+Catherine Donovan,
+Capitana Marvel\n
+Raza:	Humana-Kree\n
+Sexo:	femenino\n
+Color de pelo:	rubio\n
+Especialidad:
+    Vuelo,
+    Fuerza superhumana,
+    Disparo de energía\n
+    </string>
 </resources>
 

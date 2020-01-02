@@ -18,23 +18,23 @@ public class Main3Activity extends AppCompatActivity {
         startActivity(i);
     }
     public void hulk(View view) {
-        Intent i = new Intent(this, Main4Activity.class );
+        Intent i = new Intent(this, Main5Activity.class );
         startActivity(i);
     }
     public void capitana(View view) {
-        Intent i = new Intent(this, Main4Activity.class );
+        Intent i = new Intent(this, Main6Activity.class );
         startActivity(i);
     }
     public void black(View view) {
-        Intent i = new Intent(this, Main4Activity.class );
+        Intent i = new Intent(this, Main7Activity.class );
         startActivity(i);
     }
     public void ironman(View view) {
-        Intent i = new Intent(this, Main4Activity.class );
+        Intent i = new Intent(this, Main8Activity.class );
         startActivity(i);
     }
     public void thor(View view) {
-        Intent i = new Intent(this, Main4Activity.class );
+        Intent i = new Intent(this, Main9Activity.class );
         startActivity(i);
     }
 }
